@@ -1,0 +1,5 @@
+Task 1 grade is 7
+Task 2 grade is 8
+Midterm grade is 9
+Examination grade is 49
+The amount of marks gained during the course is 73
